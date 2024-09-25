@@ -77,6 +77,8 @@ gcc main.o -L. -lisprimary -lm -o main
 ```bash
 ./main
 ```
+![alt text](https://github.com/ISTENDLAY/Programming/blob/main/img/dynamic_commands.png?raw=true)
+
 
 ### Динамическая библиотека
 Для создания динамической библиотеки сначала создал `libprimary.so`: 
