@@ -77,7 +77,7 @@ gcc main.o -L. -lisprimary -lm -o main
 ```bash
 ./main
 ```
-![alt text](https://github.com/ISTENDLAY/Programming/blob/main/img/dynamic_commands.png?raw=true)
+![alt text](https://github.com/ISTENDLAY/Programming/blob/main/img/static_commands.png?raw=true)
 
 
 ### Динамическая библиотека
@@ -100,6 +100,7 @@ export LD_LIBRARY_PATH=:/home/istend/All_code/University/Programming
 ```bash
 ./main_dynamic
 ```
+![alt text](https://github.com/ISTENDLAY/Programming/blob/main/img/dynamic_commands.png?raw=true)
 
 ## Источники:
 - [Stack Overflow: Find out what a given gcc option flag is doing](https://stackoverflow.com/questions/26274062/find-out-what-a-given-gcc-option-flag-is-doing)
